@@ -1,4 +1,3 @@
-#과제문제1
 
 #function을 사용해서 if standard일때, (x-mean(x))/sd(x)를
 # 적용하고 그렇지 않을때 minmax를 적용하게 함수 만들기
